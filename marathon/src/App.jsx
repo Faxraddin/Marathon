@@ -5,8 +5,6 @@ import Hero from './components/Hero';
 import Navbar from './components/Navbar'
 import ScrollComponent from './components/ScrollComponent';
 
-
-
 function App() {
   return (
     <>
