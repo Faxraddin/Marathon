@@ -13,7 +13,7 @@ function App() {
       <Navbar />
       <Hero />
       <About />
-      <ScrollComponent/>
+      {/* <ScrollComponent/> */}
       <BizimBlog />
       <Footer />
     </>
