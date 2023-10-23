@@ -14,7 +14,7 @@ const Hero = () => {
         <div className='grid md:grid-cols-2 max-w-[1260px] m-auto '>
             <div className='flex flex-col justify-center md:items-start w-full px-2'>
                  <h1 className='py-3 text-white text-5xl not-italic font-bold leading-[70px] whitespace-nowrap'>Gələcəyi bu gün kəşf et,<br></br>Crowdfunding ilə {' '}
-                 <Typing speed={100} startDelay={50} eraseSpeed={100} text={['dəstəklə', 'həyata keçir', 'şərait yarat']} />
+                 <Typing speed={200} startDelay={50} eraseSpeed={100} text={['dəstəklə', 'həyata keçir', 'şərait yarat']} />
                     </h1>
                 <p className='w-[708px] text-white text-base not-italic font-normal leading-[25px] mb-[70px]'>Novation sahibkarlarla startupı olan şəxsləri birləşdirən bir crowdfunding platformasıdır. Sahibkar kimi qeydiyyatdan keçərək istədiyiniz startupa investisiya edə bilər və yaxud öz startupınızı saytda yerləşdirərək fond tapa bilərsiniz.</p>
                 <div className='flex items-center'>

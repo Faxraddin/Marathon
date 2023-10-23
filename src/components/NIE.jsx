@@ -6,7 +6,7 @@ import startup from '../assets/Startup icon.svg'
 import fond from '../assets/Fond icon.svg'
 const NIE = () => {
   return (
-    <div className="w-[1297px] h-[752px] ml-[100px] relative">
+    <div className="w-[1297px] h-[752px] ml-[80px] relative">
       <div className="relative h-[753px] -top-px">
         <div className="absolute mt-[70px] left-[458px] [font-family:'Montserrat-Medium',Helvetica] font-medium text-black text-[32px] tracking-[0] leading-[normal]">
           Necə istifadə etməli?
