@@ -6,6 +6,7 @@ import NIE from './components/NIE';
 import Navbar from './components/Navbar'
 import Tərəfdaşlar from './components/Tərəfdaşlar';
 
+
 function App() {
   return (
     <>
