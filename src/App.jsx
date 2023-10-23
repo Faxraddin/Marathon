@@ -6,6 +6,7 @@ import NIE from './components/NIE';
 import Navbar from './components/Navbar'
 import Tərəfdaşlar from './components/Tərəfdaşlar';
 import Kateqoriya from './components/Kateqoriya';
+import Haqqimizda from './components/Haqqimizda';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <NIE />
       <Tərəfdaşlar />
       <Kateqoriya/>
+      <Haqqimizda />
       <BizeQatilin />
       <BizimBlog />
       <Footer />
