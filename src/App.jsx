@@ -5,7 +5,7 @@ import Hero from './components/Hero';
 import NIE from './components/NIE';
 import Navbar from './components/Navbar'
 import Tərəfdaşlar from './components/Tərəfdaşlar';
-
+import Kateqoriya from './components/Kateqoriya';
 
 function App() {
   return (
@@ -14,6 +14,7 @@ function App() {
       <Hero />
       <NIE />
       <Tərəfdaşlar />
+      <Kateqoriya/>
       <BizeQatilin />
       <BizimBlog />
       <Footer />
