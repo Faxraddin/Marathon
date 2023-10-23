@@ -4,7 +4,7 @@
 
     const Kateqoriya = () => {
     return (
-        <div className='my-24 md:px14 max-w-screen-2xl mx-auto'>
+        <div className=' md:px14 max-w-screen-2xl mx-auto'>
             <div className='flex lg:flex-row justify-between items-start gap-10'>
                 
                 <div

@@ -7,7 +7,7 @@ import socar from '../assets/socar.png';
 
 const Tərəfdaşlar = () => {
   return (
-    <div name='about' className='w-full my-32 overflow-hidden'>
+    <div name='about' className='w-full my-12 overflow-hidden'>
         <div className='md:px-14 px-2 py-16 max-w-screen-2xl mx-8'>
             <div className='text-center my-8'>
                 <h2 className='text-4xl text-neaturalDGrey font-medium mb-2'>Tərəfdaşlar</h2>

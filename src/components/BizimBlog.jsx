@@ -4,7 +4,7 @@ import photo2 from "../assets/Photo 2.png"
 import photo3 from "../assets/Photo 3.png"
 const BizimBlog = () => {
   return (
-    <div className="relative w-[1296px] h-[499px]">
+    <div className="relative w-[1296px] h-[499px] mt-40">
       <div className="absolute w-[1296px] h-[463px] top-[36px] left-20">
         <div className="w-[416px] h-[462px] left-0 absolute top-0">
           <p className="absolute w-[416px] top-[290px] left-0 [font-family:'Montserrat-SemiBold',Helvetica] font-semibold text-black text-[24px] tracking-[0] leading-[normal]">

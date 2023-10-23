@@ -4,7 +4,7 @@ import photo4 from '../assets/Photo 4.png'
 
 const Haqqimizda = () => {
   return (
-    <div className="mx-10">
+    <div className="mx-10 mt-[190px]">
       <div className="flex items-center mb-4"> {/* Decreased margin here */}
         <div className="w-[636px] h-[384px] px-9">
           <h2 className="text-2xl font-bold mb-2">Haqqımızda</h2> {/* Decreased margin here */}
@@ -35,6 +35,7 @@ const Haqqimizda = () => {
           </p>
         </div>
       </div>
+      
     </div>
   )
 }

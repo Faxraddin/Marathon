@@ -10,7 +10,7 @@ import {
 
 const Footer = () => {
     return (
-      <div className='w-full mt-24 bg-[#06065A] text-gray-300 py-y px-2'>
+      <div className='w-full mt-[50px] bg-[#2b2b2d] text-gray-300 py-y px-2'>
         <div className='max-w-[1240px] mx-auto flex flex-col md:flex-row justify-between border-b-2 border-gray-600 py-8'>
           <div className='mb-4 md:mb-0'>
             <h6 className='text-white text-5xl not-italic font-semibold leading-[normal]'>Novation</h6>

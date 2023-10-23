@@ -1,4 +1,4 @@
-import BizeQatilin from './components/BizeQatilin';
+import NewsLetter from './components/newsletter';
 import BizimBlog from './components/BizimBlog';
 import Footer from './components/Footer';
 import Hero from './components/Hero';
@@ -7,6 +7,8 @@ import Navbar from './components/Navbar'
 import Tərəfdaşlar from './components/Tərəfdaşlar';
 import Kateqoriya from './components/Kateqoriya';
 import Haqqimizda from './components/Haqqimizda';
+import Startuplar from './components/Startuplar';
+import BizeQatilin from './components/BizeQatilin';
 
 function App() {
   return (
@@ -14,11 +16,15 @@ function App() {
       <Navbar />
       <Hero />
       <NIE />
-      <Tərəfdaşlar />
       <Kateqoriya/>
-      <Haqqimizda />
+      <Startuplar />
+      <Tərəfdaşlar />
       <BizeQatilin />
+      <Haqqimizda />
+     
+      
       <BizimBlog />
+      <NewsLetter />
       <Footer />
     </>
   );

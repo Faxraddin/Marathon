@@ -8,11 +8,11 @@ const NIE = () => {
   return (
     <div className="w-[1297px] h-[752px] ml-[100px] relative">
       <div className="relative h-[753px] -top-px">
-        <div className="absolute mt-[80px] left-[458px] [font-family:'Montserrat-Medium',Helvetica] font-medium text-black text-[32px] tracking-[0] leading-[normal]">
+        <div className="absolute mt-[70px] left-[458px] [font-family:'Montserrat-Medium',Helvetica] font-medium text-black text-[32px] tracking-[0] leading-[normal]">
           Necə istifadə etməli?
         </div>
         <div
-          className="absolute top-[-63px] left-[1px] w-[1300px] h-[730px] bg-cover"
+          className="absolute top-[-93px] w-[1300px] h-[730px] bg-cover"
           style={{
             backgroundImage: `url(${map})`,
           }}
