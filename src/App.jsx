@@ -1,17 +1,17 @@
-import About from './components/Tərəfdaşlar';
+import BizeQatilin from './components/BizeQatilin';
 import BizimBlog from './components/BizimBlog';
 import Footer from './components/Footer';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar'
-import ScrollComponent from './components/ScrollComponent';
+import Tərəfdaşlar from './components/Tərəfdaşlar';
 
 function App() {
   return (
     <>
       <Navbar />
       <Hero />
-      <About />
-      {/* <ScrollComponent/> */}
+      <Tərəfdaşlar />
+      <BizeQatilin />
       <BizimBlog />
       <Footer />
     </>
