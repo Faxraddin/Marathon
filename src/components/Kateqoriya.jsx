@@ -1,8 +1,7 @@
     import React from 'react'
     import iconf from '../assets/icon ferdi.svg'
     import icons from '../assets/icon sahibkar.svg'
-    import {motion} from 'framer-motion'
-    import {fadeIn} from '../components/variants'
+
     const Kateqoriya = () => {
     return (
         <div className='my-24 md:px14 max-w-screen-2xl mx-auto'>
