@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <div className=' w-[1441px] h-[90px] flex justify-between items-center  px-4 bg-[#06065A] text-[#fff]'>
         <div className='ml-20 text-4xl font-semibold leading-59 tracking-normal text-left '>
-            Novation
+            Novatio
         </div>
             <ul className='hidden md:flex m-40 gap-5 text-[20]'>
                 <li
